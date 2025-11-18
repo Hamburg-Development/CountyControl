@@ -1,7 +1,5 @@
 # CountyControl – Pure JS/TS Remote Console für ER:LC Private Server
 
-![CountyControl Banner](https://i.imgur.com/2fF9qWj.png)
-
 **Die schnellste, leichteste und komplett PHP-freie Remote-Console für Emergency Response: Liberty County Private Server**
 
 Funktioniert perfekt mit Roblox-Links wie:  
